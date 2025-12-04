@@ -10,6 +10,7 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 
 **Study Focus:**
 - CompTIA A+ Core 1
+- Materials Used This Week --> "CompTIA A+ Complete Review Guide: Core 1 Exam 220-1101 and Core 2 Exam 220-1102" by Troy McMillan
 
 **Objectives:**
 - Study vigorously with the objective of finishing off the A+ certificate by January
