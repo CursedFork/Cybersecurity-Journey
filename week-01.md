@@ -25,3 +25,9 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Takeaway from the day: As long as there is reasonable familiarity with the inner workings of a laptop and the basic steps for disassembling and reassembling laptops, this section is reasonably basic
 - Reflection: I believe more time should have been put into studying today; however, my shift at my part time job reduced the flexibility of my workday. Nonetheless, I feel like I am off to a good start
 - Other Notes: I also downloaded an app for practice questions for the A+ exam, so hopefully, that will be helpful in gaining some experience answering relevant questions and keep me sharp.
+
+**12/5/2025:**
+- Took practice quizzes for mobile devices. (Scored 86% on https://www.examcompass.com/comptia-a-plus-certification-practice-test-1-exam-220-1201).
+- Weak areas included the specifics of certain acronyms, but I wrote down the questions I got wrong in my journal and made sure to correct myself.
+- Takeaway from the day: Continuing practice and review seems to be working well.
+- I also made use of that practice question app and scored reasonably well on the hardware section, but performed poorly on the networking section, which I will be studying tomorrow.
