@@ -31,3 +31,10 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Weak areas included the specifics of certain acronyms, but I wrote down the questions I got wrong in my journal and made sure to correct myself.
 - Takeaway from the day: Continuing practice and review seems to be working well.
 - I also made use of that practice question app and scored reasonably well on the hardware section, but performed poorly on the networking section, which I will be studying tomorrow.
+
+**12/6/2025:**
+- Took notes on more of the book, and took time to take a couple general tests and practice quizzes
+- I did not perform as well as I would have liked, only getting a 57% on my first test, my weaknesses were generally in areas I had not studied for previously
+- This felt like a reasonable baseline, and I will be taking more in the coming days after I study the rest of the book
+- Takeaway from the Day: I feel confident that I will be able to reach the goal I have set, to pass Core 1 of the exam within the next week or two. If I can maintain this momentum.
+- Other Notes: I have been doing some research on relevant practice for cybersecurity and IT work, and I have two leads: pentesting practice websites such as hackthebox.com and using python to automate processes involving data collection of some kind. I was thinking about writing a script to skim over wikipedia pages and give me relevant information for movies I have seen as practice. 
