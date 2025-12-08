@@ -38,3 +38,10 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - This felt like a reasonable baseline, and I will be taking more in the coming days after I study the rest of the book
 - Takeaway from the Day: I feel confident that I will be able to reach the goal I have set, to pass Core 1 of the exam within the next week or two. If I can maintain this momentum.
 - Other Notes: I have been doing some research on relevant practice for cybersecurity and IT work, and I have two leads: pentesting practice websites such as hackthebox.com and using python to automate processes involving data collection of some kind. I was thinking about writing a script to skim over wikipedia pages and give me relevant information for movies I have seen as practice. 
+
+**12/7/2025:**
+- Discovered I made an error in judgement regarding my choice of book, a bit embarrassing, but I am making this record with everything I can included, especially mistakes.
+- Essentially, while watching Professor Messer videos as a means of studying today, I discovered that the A+ exam is rewritten every ~3 years, and most recently in around March 2025.
+- So, I restructured my study goals around the current standard, V15.
+- I today, as a "catch-up" decided to put all of the topics into ChatGPT to get a general understanding of all of the topics for Core 1.
+- I am planning to make flash cards tomorrow for all of the necessary ports and acronyms, and will be studying these at least twice a day.
