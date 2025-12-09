@@ -51,3 +51,10 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Covered the end of hardware and completed networking.
 - All important definitions and acronyms from these sections are now recorded and defined alongside exam relevant information in my notes.
 - Did 3 practice quizzes to end the day.
+
+**12/9/2025:**
+- Took 5 pages of Cornell style notes, with the objective of returning to them later to fill in the right column with more specific information.
+- Covered Mobile Devices and Virtualization.
+- Did 3 practice quizzes and a practice exam, with a noteworthy uptick in my score.
+- My weaker areas are those which I have not already studied much, or in specific items which I have not yet memorized, which brings me to flashcards.
+- I made a collection of 100 flashcards with important definitions, acronyms and port numbers. 
