@@ -45,7 +45,7 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - So, I restructured my study goals around the current standard, V15.
 - I today, as a "catch-up" decided to put all of the topics into ChatGPT to get a general understanding of all of the topics for Core 1.
 - I am planning to make flash cards tomorrow for all of the necessary ports and acronyms, and will be studying these at least twice a day.
-
+---
 **12/8/2025:**
 - Took 8 pages of Cornell style notes for v15 of the exam.
 - Covered the end of hardware and completed networking.
