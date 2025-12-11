@@ -16,7 +16,7 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Study vigorously with the objective of finishing off the A+ certificate by January.
 - Write down and begin to memorize important port numbers and specific terms necessary for the job.
 - Take at least 5 practice quizzes this week and record scores and notes taken from them.
-
+---
 
 **12/4/2025:**
 - Began work in Textbook.
@@ -25,20 +25,20 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Takeaway from the day: As long as there is reasonable familiarity with the inner workings of a laptop and the basic steps for disassembling and reassembling laptops, this section is reasonably basic
 - Reflection: I believe more time should have been put into studying today; however, my shift at my part time job reduced the flexibility of my workday. Nonetheless, I feel like I am off to a good start
 - Other Notes: I also downloaded an app for practice questions for the A+ exam, so hopefully, that will be helpful in gaining some experience answering relevant questions and keep me sharp.
-
+---
 **12/5/2025:**
 - Took practice quizzes for mobile devices. (Scored 86% on https://www.examcompass.com/comptia-a-plus-certification-practice-test-1-exam-220-1201).
 - Weak areas included the specifics of certain acronyms, but I wrote down the questions I got wrong in my journal and made sure to correct myself.
 - Takeaway from the day: Continuing practice and review seems to be working well.
 - I also made use of that practice question app and scored reasonably well on the hardware section, but performed poorly on the networking section, which I will be studying tomorrow.
-
+---
 **12/6/2025:**
 - Took notes on more of the book, and took time to take a couple general tests and practice quizzes
 - I did not perform as well as I would have liked, only getting a 57% on my first test, my weaknesses were generally in areas I had not studied for previously
 - This felt like a reasonable baseline, and I will be taking more in the coming days after I study the rest of the book
 - Takeaway from the Day: I feel confident that I will be able to reach the goal I have set, to pass Core 1 of the exam within the next week or two. If I can maintain this momentum.
 - Other Notes: I have been doing some research on relevant practice for cybersecurity and IT work, and I have two leads: pentesting practice websites such as hackthebox.com and using python to automate processes involving data collection of some kind. I was thinking about writing a script to skim over wikipedia pages and give me relevant information for movies I have seen as practice. 
-
+---
 **12/7/2025:**
 - Discovered I made an error in judgement regarding my choice of book, a bit embarrassing, but I am making this record with everything I can included, especially mistakes.
 - Essentially, while watching Professor Messer videos as a means of studying today, I discovered that the A+ exam is rewritten every ~3 years, and most recently in around March 2025.
@@ -51,23 +51,22 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Covered the end of hardware and completed networking.
 - All important definitions and acronyms from these sections are now recorded and defined alongside exam relevant information in my notes.
 - Did 3 practice quizzes to end the day.
-
+---
 **12/9/2025:**
 - Took 5 pages of Cornell style notes, with the objective of returning to them later to fill in the right column with more specific information.
 - Covered Mobile Devices and Virtualization.
 - Did 3 practice quizzes and a practice exam, with a noteworthy uptick in my score.
 - My weaker areas are those which I have not already studied much, or in specific items which I have not yet memorized, which brings me to flashcards.
 - I made a collection of 100 flashcards with important definitions, acronyms and port numbers. 
-
+---
 **12/10/2025:**
 - Took a practice quiz for each section of the A+ exam, and scored reasonably well.
 - Took a practice exam, and scored an 86%.
 - Landed an interview with Geek Squad, which should be good for some experience in IT.
 - Found a couple other free certificates I could do in the midst of my pursuit for CompTIA stuff.
-
+---
 
 ## Weekly Reflection:
----
 - I came into this week with a feeling of urgency, and feeling like I was behind, but after raising my practcice test scores by over 20%, I feel very confident moving forward.
 - I made myself more familiar with some technology news outlets and learned a lot more about the way networking devices really work.
 - After doing a lot of reading about cybersecurity labs and real life situations, I am even more eager to get started on that portion of my learning.
