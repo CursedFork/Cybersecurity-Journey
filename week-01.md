@@ -58,3 +58,18 @@ I also very recently discovered that my fiance is having a boy, so I am extra mo
 - Did 3 practice quizzes and a practice exam, with a noteworthy uptick in my score.
 - My weaker areas are those which I have not already studied much, or in specific items which I have not yet memorized, which brings me to flashcards.
 - I made a collection of 100 flashcards with important definitions, acronyms and port numbers. 
+
+**12/10/2025:**
+- Took a practice quiz for each section of the A+ exam, and scored reasonably well.
+- Took a practice exam, and scored an 86%.
+- Landed an interview with Geek Squad, which should be good for some experience in IT.
+- Found a couple other free certificates I could do in the midst of my pursuit for CompTIA stuff.
+
+
+## Weekly Reflection:
+---
+- I came into this week with a feeling of urgency, and feeling like I was behind, but after raising my practcice test scores by over 20%, I feel very confident moving forward.
+- I made myself more familiar with some technology news outlets and learned a lot more about the way networking devices really work.
+- After doing a lot of reading about cybersecurity labs and real life situations, I am even more eager to get started on that portion of my learning.
+- Having landed another tech interview in the same month as my more recent attempt, I feel like it is more possible that I may actually get a job.
+- I also now have some more project ideas I could put some time into as I am studying for these exams, such as a home lab or python automation scripts.
