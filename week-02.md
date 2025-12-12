@@ -24,3 +24,9 @@
 3. I looked into the buzzing sound noted earlier, and discovered that it indicates that the GPU was likely not functional.
 4. I took out and reslotted the GPU twice, once to test, and the second time after cleaning the pins with diluted isopropol alcohol and a microfiber cloth. Neither attempt worked.
 5. I ordered a component online after ensuring that it would be compatible with the existing hardware. If this does not work, I will investigate further. 
+---
+**12/12/2025:**
+- I scheduled my CompTIA A+ Core 1 1201 exam for next Saturday, December 20th.
+- My replacement GPU for the old PC is coming tomorrow.
+- I did some more practice questions today and I am feeling reasonably confident about my upcoming exam.
+- I signed up for a newsletter called "Tldr" which is supposed to give me daily news on technology, including cybersecurity, hardware, IT, and AI, based on how I set my preferences. 
