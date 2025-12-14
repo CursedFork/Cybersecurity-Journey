@@ -30,3 +30,15 @@
 - My replacement GPU for the old PC is coming tomorrow.
 - I did some more practice questions today and I am feeling reasonably confident about my upcoming exam.
 - I signed up for a newsletter called "Tldr" which is supposed to give me daily news on technology, including cybersecurity, hardware, IT, and AI, based on how I set my preferences. 
+---
+**12/13/2025:**
+- The replacement GPU for my old PC project arrived today. However, in spite of being allegedly compatible it did not display anything on the screen. 
+- Process:
+1. I unplugged everything from the tower, and opened the PC. 
+2. I removed the old GPU from the PCIe slot, and after taking the new GPU freshly out of its packaging, I slotted it in. 
+3. I plugged in the power cable and turned it on. The PC still beeped, so I looked into further options. 
+4. One suggestion I found was to clear the CMOS, so I followed the instructions I found and removed the battery from the motherboard and let it sit for 10 minutes, then put it back in. 
+5. After plugging cables back in and turning the PC on again, there was no beeping and the keyboard received power sincd its lights came on. However, it did not display anything. 
+6. I looked further into this issue and learned that even though it was technically compatible, Dell towers like the one I am working on do not support Display Port cables, which is the only connector type on the new GPU. 
+7. I returned the new GPU and ordered one after ensuring it has the right connections. 
+- After this situation, I got back to studying for my exam and took some practice quizzes and another practice exam. 
