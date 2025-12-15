@@ -41,4 +41,16 @@
 5. After plugging cables back in and turning the PC on again, there was no beeping and the keyboard received power sincd its lights came on. However, it did not display anything. 
 6. I looked further into this issue and learned that even though it was technically compatible, Dell towers like the one I am working on do not support Display Port cables, which is the only connector type on the new GPU. 
 7. I returned the new GPU and ordered one after ensuring it has the right connections. 
-- After this situation, I got back to studying for my exam and took some practice quizzes and another practice exam. 
+- After this situation, I got back to studying for my exam and took some practice quizzes and another practice exam.
+---
+**12/14/2025:**
+- I flipped through my flashcards and studied more of my practice questions.
+- I took a couple practice quizzes and another exam.
+- My brother requested a basic PC, intended to be useful in work, for Christmas, so my parents approached me to put together a parts list.
+- Since I already have a CPU and GPU sitting around, not to mention a drive with Windows 11 to boot with, I compiled a list of parts that were compatible, and ordered them.
+- I realized that this build gave me a few opportunities to work on small projects that could be discussed for my resume, for instance:
+1. A pre-loaded desktop complete with an operating system, and some useful applications for PC maintenance. Could frame this on my resume as "Bootable USB Maintenance and Recovery Kit."
+2. It would count towards my freelance builds, and I could say it is a "Custom PC Build and Hardware Compatibility Integration."
+3. "Hardware Lifecycle Extension" would also be a potential project listing, since I am extending the lifespan of two parts that still function, that I retired from my main PC.
+- Overall, today was well spent on planning a few other projects that I can do in the next few weeks after I finish the Old PC restoration project.
+- I am also happy that I have continued to perform gradually better in my practice exams and quizzes.
