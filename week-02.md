@@ -54,3 +54,17 @@
 3. "Hardware Lifecycle Extension" would also be a potential project listing, since I am extending the lifespan of two parts that still function, that I retired from my main PC.
 - Overall, today was well spent on planning a few other projects that I can do in the next few weeks after I finish the Old PC restoration project.
 - I am also happy that I have continued to perform gradually better in my practice exams and quizzes.
+---
+**12/15/2025:**
+- I continued to progress in my study aid app, and took a couple more practice quizzes and exams.
+- The second graphics card I ordered for my old PC project arrived today, so I slotted it in:
+1. First, the PC was unplugged from any power connection.
+2. The old GPU was removed.
+3. Following similar procedure to the last time, I cleared the CMOS by removing one of the RAM sticks and the motherboard battery.
+4. The computer successfully made it through POST, and displayed on the monitor through DVI.
+5. It works now; however, since it is running Windows XP, I thought it best not to attempt to connect it to the wifi on account of its potential vulnerabilities.
+6. Strangely enough, after reinserting the old RAM stick, the same issue occurred, and it failed to POST. I wonder whether both the RAM and the old GPU were both defective.
+7. System is now operational, just with only one stick of RAM for now.
+- I feel very excited having successfully revived the old PC, even if it is not very fast or modern. It's still a win.
+- This endeavor has been an interesting insight into the IT field, and I am eager to continue more projects.
+- I will be adding my full documentation of this project to my "projects" folder, which I will be adding to this repository right after this commit.
