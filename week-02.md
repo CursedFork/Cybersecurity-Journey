@@ -68,3 +68,10 @@
 - I feel very excited having successfully revived the old PC, even if it is not very fast or modern. It's still a win.
 - This endeavor has been an interesting insight into the IT field, and I am eager to continue more projects.
 - I will be adding my full documentation of this project to my "projects" folder, which I will be adding to this repository right after this commit.
+---
+**12/16/2025:**
+- I landed the job at Geek Squad as an Advanced Repair Technitian!
+- I officially have an IT job, which is nice for a start in my experience as a computer science professional.
+- I also decided to boot Debian 12 on my old PC project, and my goal is to try and get a Pi-Hole ad blocker running on that soon.
+- This was chosen because it is the latest version of debian that will run on a 32-bit architecture, which this old PC is.
+- With my core 1 exam on the horizon, I will be continuing to study vigorously as I await final onboarding steps for my careers.
