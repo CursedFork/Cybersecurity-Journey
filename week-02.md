@@ -75,3 +75,13 @@
 - I also decided to boot Debian 12 on my old PC project, and my goal is to try and get a Pi-Hole ad blocker running on that soon.
 - This was chosen because it is the latest version of debian that will run on a 32-bit architecture, which this old PC is.
 - With my core 1 exam on the horizon, I will be continuing to study vigorously as I await final onboarding steps for my careers.
+--- 
+**12/17/2025:**
+- I successfully got a desktop interface with xfce4 and lightdm on my debian 12 system.
+- My brother's PC parts arrived today, so I am trying to rush my "maintenance USB" project.
+- I also took several more practice quizzes and exams and I am feeling reasonably confident in my ability to pass this exam.
+---
+## Weekly Reflection:
+- I successfully got my first IT position, and I am very excited to update my LinkedIn accordingly.
+- I did several successful projects which furthered my understanding of the technology I have on hand.
+- I have several more projects planned for the coming weeks, which should be good on my resume.
