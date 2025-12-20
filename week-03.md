@@ -21,3 +21,10 @@
 - I will be doing the polite thing and politely explaining that I will sadly be unable to fulfill the role, before they waste time on training me.
 - I would not feel right making them take time away from doing their job to train me when I will be working a full time job that is incompatible with that work schedule in about two weeks.
 - I will be continuing this journal, updating it with non-confidential work that I do, probably updates on Security+, since I no longer really need to continue A+. I will still be taking the core 1 exam though since I already paid for it. 
+---
+**12/19/2025:**
+- I did not do much this day, only really some final review for the Core 1 exam
+---
+**12/20/2025:**
+- I passed the Core 1 exam!!
+- With my first day on the job coming up, I will be pivoting towards Sec+ and other related work moving forward. 
